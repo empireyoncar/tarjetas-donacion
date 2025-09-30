@@ -39,7 +39,7 @@ export default function ApoyoProyecto() {
                 href="https://www.paypal.me/TUENLACE" // 👉 cambia por tu enlace PayPal
                 target="_blank"
                 rel="noopener noreferrer"
-                className="block w-full bg-blue-600 hover:bg-blue-700 py-3 rounded-lg text-center font-semibold"
+                className="block w-full bg-blue-600 hover:text-white text-xl py-3 rounded-lg text-center font-semibold"
               >
                 💳 Donar con PayPal
               </a>
