@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 import './theme.css';
+import ApoyoProyecto from "./ApoyoProyecto";
 
 import zerg1 from "./assets/zerg1.jpeg";
 import zerg2 from "./assets/zerg2.jpeg";
@@ -261,6 +262,8 @@ export default function TarjetaGenerador() {
       >
         Descargar tarjeta
       </button>
+      // Dentro del return, debajo del botón:
+      <ApoyoProyecto />
     </div>
   );
 }
