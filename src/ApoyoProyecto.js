@@ -36,20 +36,21 @@ export default function ApoyoProyecto() {
             <div className="space-y-4">
               {/* PayPal USD, EUR */}
               <a
-                href="https://www.paypal.com/paypalme/empireyoncarespa" // 👉 cambia por tu enlace PayPal
-                target="_blank"
-                rel="noopener noreferrer"
-                className="block w-full bg-blue-600 hover:bg-blue-700 py-3 rounded-lg text-center font-semibold text-white"
-              >
-                💳 Donar con PayPal
-              </a>
+  href="https://www.paypal.com/paypalme/empireyoncarespa"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="block w-full bg-blue-600 hover:bg-blue-700 py-3 rounded-lg text-center font-semibold text-white visited:text-white active:text-white"
+>
+  💳 Donar con PayPal
+</a>
+
 
               {/* Binance USDT*/}
               <a
                 href="https://drive.google.com/file/d/1JkHdOMmhP9jLE4XP7B_JDq13Y3jeFW6l/view" // 👉 pon tu enlace o código QR
                 target="_blank"
                 rel="noopener noreferrer"
-                className="block w-full bg-yellow-500 hover:bg-yellow-600 py-3 rounded-lg text-center font-semibold text-white"
+                className="block w-full bg-yellow-500 hover:bg-yellow-600 py-3 rounded-lg text-center font-semibold text-white visited:text-white active:text-white"
               >
                 🪙 Donar con Binance
               </a>
@@ -59,14 +60,15 @@ export default function ApoyoProyecto() {
                 href="https://wa.me/34643948196 " // 👉 cambia con tu número
                 target="_blank"
                 rel="noopener noreferrer"
-                className="block w-full bg-green-600 hover:bg-green-700 py-3 rounded-lg text-center font-semibold text-white"
+                className="block w-full bg-green-600 hover:bg-green-700 py-3 rounded-lg text-center font-semibold text-white visited:text-white active:text-white"
+
               >
                 📲Hablar por WhatsApp
+              </a>
                 Nota 1: Para evitar comisiones si es Posible usa BINANCE, o Aprende a usarlo. Como miembro de la comunidad es necesario entender las criptomonedas para desarrollarnos.
                 Nota 2: si no puedes donar ni por payal, ni por binance me puedes escribir por whatsapp y vemos que medio usamos yape, zelle, bizum, pago movil.
                 Nota 3: Si eres programador y quieres ayudar en el Desarrollo del proyecto de la comunidad, escribeme al whatsapp, y unete al discord, estos proyecto te serviran mucho en un curriculum.
                 Nota 4: Gracias por ser parte de Esto.
-              </a>
             </div>
           </div>
         </div>
