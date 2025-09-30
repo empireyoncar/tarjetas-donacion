@@ -262,7 +262,7 @@ export default function TarjetaGenerador() {
       >
         Descargar tarjeta
       </button>
-      // Dentro del return, debajo del botón:
+      {/* Dentro del return, debajo del botón: */}
       <ApoyoProyecto />
     </div>
   );
