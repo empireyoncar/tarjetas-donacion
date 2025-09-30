@@ -68,7 +68,7 @@ export default function ApoyoProyecto() {
                 <p className="text-gray-300 mb-6 text-center">
                 Nota 1: Para evitar comisiones si es Posible usa BINANCE, o Aprende a usarlo. Como miembro de la comunidad es necesario entender las criptomonedas para desarrollarnos.
                    <p>Nota 2: si no puedes donar ni por payal, ni por binance me puedes escribir por whatsapp y vemos que medio usamos yape, zelle, bizum, pago movil.   </p>
-                   <p>Nota 3: Si eres programador y quieres ayudar en el Desarrollo del proyecto de la comunidad, escribeme al whatsapp, y unete al discord, estos proyecto te serviran mucho en un curriculum.</p>
+                   <p>Nota 3: Si eres programador o miembro quieres Compremeterte en el Desarrollo del proyecto de la comunidad, escribeme al whatsapp, y unete al discord, estos proyecto te serviran mucho en un curriculum.</p>
                    </p>
             </div>
           </div>
